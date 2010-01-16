@@ -1,0 +1,43 @@
+Curriculum Vitae for Pontus Freyhult
+
+Contact information:
+
+Pontus Freyhult
+Guldvägen 14
+SE-906 53  UMEÅ
+Sweden
+
+Home phone: +46-90-699 00 10
+
+Web site: <http://soua.net/>
+E-mail: pontus_cv@soua.net
+
+Fields of interest:
+
+High performance computing, Parallel computing, Fault tolerant design, Commodity cluster design, High availability design, Free software
+
+Work experience and major achievements:
+
+Systems developer, Umeå university Ladok division, 2008-
+
+Main responsibilites: Software configuration management, customer and developer support. 
+
+Systems developer, Uppsala university IT Support department, 2003-2008
+
+Main responsibilities: Operations of various public net services and administrative systems.
+Designed and built a scalable, high availability mail server cluster for the university's e-mail service. (2006, part of team; three members.)
+Built a high performing, highly scalable, high availabilty clustered file distribution service for the  SUNET (Swedish University computer NETwork) archive. (2004, part of team; three members.)
+
+Systems developer, Uppsala university Department of information sciences, 1999-2002
+Main responsibilities: Site network, computer security for the site. Operations and support of the department's UNIX servers, general support for faculty.
+Designed and implemented a universal file service for the site with native file serving to Windows, MacOS X, MacOS 7-9 and Solaris as well as remote access through a custom built web interface (1999.)
+
+Education:
+
+Master of Science, Computer Science, 2004 
+Maîtrise d'Informatique - Université d'Aix-Marseille II, 1998
+
+Programming skills:
+
+Languages in which I have extensive experience includes: C, Python, C++, POSIX sh, Java, elisp, Perl and various assembler languages.
+

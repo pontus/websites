@@ -1,0 +1,17 @@
+I've done some work in order to provide VMPS server functionality
+without requiring Cisco hardware, unfortunately, mainly looking at 
+
+OpenVMPS <URL:http://sourceforge.net/projects/vmps/>
+
+and Gunnar Lindbergs VQPD (as mentioned at
+<URL:http://www.rescomp.berkeley.edu/about/training/senior/progs/Network-Retooling/x163.html>)
+
+unfortunately, our switches didn't agree with either of those
+implementations, and I've not had the hardware to spare to analyze
+what differs. Feel free to contact me with questions, though.
+
+There is also a report in German about VMPS/VQP
+<URL:http://netcollege.anyweb.ch/diplomarbeiten/VMPS.pdf>
+
+
+

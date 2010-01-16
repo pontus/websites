@@ -1,0 +1,11 @@
+Security and other patches for Ecartis.
+
+A while back, I started fixing some of the (potential) security
+problems with Ecartis. During that, I also fixed an autoconf/automake
+build system and have now started working on a test suite.
+
+You can help by testing the patch in
+<URL:http://soua.net/ecartis.diff> and reporting any problems.
+
+      /Pontus (pont_ecartis@soua.net)
+
